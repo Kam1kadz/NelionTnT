@@ -1,0 +1,7 @@
+name: NelionTnT
+version: '1.19.2'
+main: buttonroledev.neliontnt.NelionTnT
+api-version: '1.16'
+commands:
+  givetnt:
+    description: 'Выдать тнт'

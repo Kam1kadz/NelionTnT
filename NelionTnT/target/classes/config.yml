@@ -1,0 +1,7 @@
+# NelionTnT Configuration
+
+explosionRadius: 10
+fuseTime: 7.0
+customTNTName: "&6SuperTnT"
+customTNTDescription:
+  - "&bDynomite 10x10"
